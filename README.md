@@ -7,6 +7,5 @@ node.js tutorial in learnyounode
   4. **.. profit!**
 
 
-nodeschool: http://nodeschool.io/ko/index.html
-
+nodeschool: http://nodeschool.io/ko/index.html  
 learnyounode: https://github.com/workshopper/learnyounode
