@@ -1,0 +1,22 @@
+{
+  "name": "@dykim/how_to_npm",
+  "version": "1.0.0",
+  "description": "how to npm study",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "dykim",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "how-to-npm",
+    "study"
+  ],
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
