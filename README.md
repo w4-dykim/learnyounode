@@ -1,11 +1,11 @@
-# learnyounode
-node.js tutorial in learnyounode
+# Node.js Tutorial
 
-  1. Install [Node.js](http://nodejs.org/)
-  2. Run `sudo npm install learnyounode -g`
-  3. Run `learnyounode`
-  4. **.. profit!**
+dykim's node.js tutorial.
+plz, follow sequence which is described.
+It's a good chance to get entirely basic knowledge for node.js.
 
+[nodeschool](http://nodeschool.io/ko/)
 
-nodeschool: http://nodeschool.io/ko/index.html  
-learnyounode: https://github.com/workshopper/learnyounode
+1. study 'learnyounode' (basic concepts to node.js)
+2. study 'how-to-npm' (basic concepts to npm)
+3. study 'express' (basic concepts to express framework)
